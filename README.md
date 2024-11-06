@@ -1,4 +1,4 @@
-# World_bank
+# World Bank Economic Analysis (US vs UK)
 Analysis on economic indicators
 For anyone considering a move abroad, the debate between the United States and the United Kingdom is a familiar one. Both nations are known for their thriving economies, esteemed educational institutions, and opportunities for professional growth. Yet, for immigrants seeking the best prospects, each country offers its unique blend of economic advantages and challenges, sparking endless conversations about where to plant new roots.
 
